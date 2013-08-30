@@ -21,4 +21,3 @@ describe('a quiz', function() {
     expect(array.sort()).toEqual(sorted);
   })
 });
-
